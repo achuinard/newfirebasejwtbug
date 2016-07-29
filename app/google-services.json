@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283786286827",
+    "firebase_url": "https://jwt-bug.firebaseio.com",
+    "project_id": "jwt-bug",
+    "storage_bucket": "jwt-bug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283786286827:android:92d2e28b6b566e01",
+        "android_client_info": {
+          "package_name": "com.twansoftware.jwtbug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283786286827-hr3sh8khdp221bl78r246bsonok1voqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfIIrGcdIs_JBM1nDyMDwPbHkXIMcSnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
